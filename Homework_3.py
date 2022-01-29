@@ -33,3 +33,4 @@ elif inp1<inp2:
     print(inp2,inp1)
 else:
     print("equal")
+
