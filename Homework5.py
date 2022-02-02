@@ -1,8 +1,8 @@
-task 1
+# task 1
 param=int(input('enter parameter: '))
 for i in range(1, param+1):
     print('*'*i)
-task 2
+# task 2
 inp1 = int(input('enter start of range: '))
 inp2 = int(input('enter end of range: '))
 _sum=0
