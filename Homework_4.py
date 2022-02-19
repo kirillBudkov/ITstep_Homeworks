@@ -1,4 +1,4 @@
-# # task 1
+# # # task 1
 # inp1 = int(input('enter start of range: '))
 # inp2 = int(input('enter end of range: '))
 # evensum = 0
@@ -22,12 +22,12 @@
 
 
 
-# length= int(input('enter line length: '))
-# symb=input('enter symbol: ')
-# i=1
-# while i <= length:
-#     print(symb)
-#     i += 1
+length= int(input('enter line length: '))
+symb=input('enter symbol: ')
+i=1
+while i <= length:
+    print(symb)
+    i += 1
 
 # task3
 # while True:
